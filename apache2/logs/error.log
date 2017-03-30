@@ -1,0 +1,46 @@
+[Wed Mar 29 08:46:53.952152 2017] [ssl:warn] [pid 13872:tid 376] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:46:54.093167 2017] [ssl:warn] [pid 13872:tid 376] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:46:54.125170 2017] [mpm_winnt:notice] [pid 13872:tid 376] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.30 configured -- resuming normal operations
+[Wed Mar 29 08:46:54.126170 2017] [mpm_winnt:notice] [pid 13872:tid 376] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Wed Mar 29 08:46:54.126170 2017] [core:notice] [pid 13872:tid 376] AH00094: Command line: 'D:\\Bitnami\\REDMIN~1.2-2\\apache2\\bin\\httpd.exe -d D:/Bitnami/redmine-3.3.2-2/apache2 -f D:\\Bitnami\\REDMIN~1.2-2\\apache2\\conf\\httpd.conf'
+[Wed Mar 29 08:46:54.130170 2017] [mpm_winnt:notice] [pid 13872:tid 376] AH00418: Parent: Created child process 1280
+[Wed Mar 29 08:46:54.510208 2017] [ssl:warn] [pid 1280:tid 252] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:46:54.709228 2017] [ssl:warn] [pid 1280:tid 252] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:46:54.724230 2017] [mpm_winnt:notice] [pid 1280:tid 252] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 29 08:47:00.708828 2017] [mpm_winnt:notice] [pid 13872:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 29 08:47:02.710028 2017] [mpm_winnt:notice] [pid 1280:tid 252] AH00364: Child: All worker threads have exited.
+[Wed Mar 29 08:47:02.731030 2017] [mpm_winnt:notice] [pid 13872:tid 376] AH00430: Parent: Child process 1280 exited successfully.
+[Wed Mar 29 08:47:04.554213 2017] [ssl:warn] [pid 8708:tid 376] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:47:04.710228 2017] [ssl:warn] [pid 8708:tid 376] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:47:04.721229 2017] [mpm_winnt:notice] [pid 8708:tid 376] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.30 configured -- resuming normal operations
+[Wed Mar 29 08:47:04.721229 2017] [mpm_winnt:notice] [pid 8708:tid 376] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Wed Mar 29 08:47:04.721229 2017] [core:notice] [pid 8708:tid 376] AH00094: Command line: 'D:\\Bitnami\\REDMIN~1.2-2\\apache2\\bin\\httpd.exe -d D:/Bitnami/redmine-3.3.2-2/apache2 -f D:\\Bitnami\\REDMIN~1.2-2\\apache2\\conf\\httpd.conf'
+[Wed Mar 29 08:47:04.726230 2017] [mpm_winnt:notice] [pid 8708:tid 376] AH00418: Parent: Created child process 6136
+[Wed Mar 29 08:47:05.116269 2017] [ssl:warn] [pid 6136:tid 252] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:47:05.252282 2017] [ssl:warn] [pid 6136:tid 252] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:47:05.261283 2017] [mpm_winnt:notice] [pid 6136:tid 252] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 29 08:49:50.300786 2017] [mpm_winnt:notice] [pid 8708:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 29 08:49:52.300986 2017] [mpm_winnt:notice] [pid 6136:tid 252] AH00364: Child: All worker threads have exited.
+[Wed Mar 29 08:49:52.321988 2017] [mpm_winnt:notice] [pid 8708:tid 376] AH00430: Parent: Child process 6136 exited successfully.
+[Wed Mar 29 08:49:54.231179 2017] [ssl:warn] [pid 10964:tid 380] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:49:54.384194 2017] [ssl:warn] [pid 10964:tid 380] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:49:54.394195 2017] [mpm_winnt:notice] [pid 10964:tid 380] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.30 configured -- resuming normal operations
+[Wed Mar 29 08:49:54.394195 2017] [mpm_winnt:notice] [pid 10964:tid 380] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Wed Mar 29 08:49:54.394195 2017] [core:notice] [pid 10964:tid 380] AH00094: Command line: 'D:\\Bitnami\\REDMIN~1.2-2\\apache2\\bin\\httpd.exe -d D:/Bitnami/redmine-3.3.2-2/apache2 -f D:\\Bitnami\\REDMIN~1.2-2\\apache2\\conf\\httpd.conf'
+[Wed Mar 29 08:49:54.398195 2017] [mpm_winnt:notice] [pid 10964:tid 380] AH00418: Parent: Created child process 13688
+[Wed Mar 29 08:49:54.872243 2017] [ssl:warn] [pid 13688:tid 256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:49:55.042260 2017] [ssl:warn] [pid 13688:tid 256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:49:55.055261 2017] [mpm_winnt:notice] [pid 13688:tid 256] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 29 08:50:10.698825 2017] [mpm_winnt:notice] [pid 10964:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 29 08:50:12.699025 2017] [mpm_winnt:notice] [pid 13688:tid 256] AH00364: Child: All worker threads have exited.
+[Wed Mar 29 08:50:12.725028 2017] [mpm_winnt:notice] [pid 10964:tid 380] AH00430: Parent: Child process 13688 exited successfully.
+[Wed Mar 29 08:50:14.144170 2017] [ssl:warn] [pid 8272:tid 380] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:50:14.298185 2017] [ssl:warn] [pid 8272:tid 380] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:50:14.307186 2017] [mpm_winnt:notice] [pid 8272:tid 380] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.30 configured -- resuming normal operations
+[Wed Mar 29 08:50:14.308186 2017] [mpm_winnt:notice] [pid 8272:tid 380] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Wed Mar 29 08:50:14.308186 2017] [core:notice] [pid 8272:tid 380] AH00094: Command line: 'D:\\Bitnami\\REDMIN~1.2-2\\apache2\\bin\\httpd.exe -d D:/Bitnami/redmine-3.3.2-2/apache2 -f D:\\Bitnami\\REDMIN~1.2-2\\apache2\\conf\\httpd.conf'
+[Wed Mar 29 08:50:14.313187 2017] [mpm_winnt:notice] [pid 8272:tid 380] AH00418: Parent: Created child process 10300
+[Wed Mar 29 08:50:14.717227 2017] [ssl:warn] [pid 10300:tid 256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:50:14.868242 2017] [ssl:warn] [pid 10300:tid 256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 29 08:50:14.880243 2017] [mpm_winnt:notice] [pid 10300:tid 256] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 29 13:45:10.940672 2017] [core:error] [pid 10300:tid 1012] (20024)The given path is misformatted or contained invalid characters: [client ::1:62458] AH00127: Cannot map GET /redmine:80 HTTP/1.1 to file
